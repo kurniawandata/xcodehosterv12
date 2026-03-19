@@ -21,7 +21,7 @@ Program ini telah diimplementasikan
 -------------------------------
 Anda bisa mengakses website xcodehoster di https://xcodehoster.id
 
-Video tutorial untuk v11
+Video tutorial untuk v11 / v12
 ----------------
 Video tutorial : https://www.youtube.com/watch?v=gx3n-sdmUgE
 
